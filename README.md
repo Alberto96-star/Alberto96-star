@@ -53,5 +53,5 @@
 	<a href="https://github.com/Alberto96-star"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/alberto.rodriguez.52459/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/albertorc96/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://albertodev.vercel.app/"><img src="https://github.com/Alberto96-star/Alberto96-star/blob/main/logo%207.jpg"  height="28" width="35" alt="Myweb"/></a>
+	<a href="https://albertodev.vercel.app/"><img src="https://github.com/Alberto96-star/Alberto96-star/blob/main/AR.png"  height="28" width="35" alt="Myweb"/></a>
 </p>
